@@ -1,2 +1,2 @@
-"soy joto" 
-"pero soy feliz de esta manera" 
+"Tu Nombre" 
+"tu-email@example.com" 
