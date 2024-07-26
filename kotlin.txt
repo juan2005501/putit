@@ -1,2 +1,2 @@
-"Tu Nombre" 
-"tu-email@example.com" 
+"joto" 
+"joto@hotmail.com" 
